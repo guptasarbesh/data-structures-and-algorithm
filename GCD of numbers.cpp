@@ -17,11 +17,12 @@ for(d=1;d<=a+b;d++)
 		gcdmax=gcd;
 //		return gcdmax;
 		 
-	}
-	
-	
+	}	
 }
 }
+
+
+
 int main()
 {
 
